@@ -13,7 +13,7 @@ this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
 ## Download
 
-- [here](/release)
+- [Official release page](https://github.com/david6983/saxaboom/releases)
 
 ## Manual
 
