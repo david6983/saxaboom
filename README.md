@@ -11,6 +11,10 @@ This software emulate the famous toy from **Kawasaki, Sax-a-boom**.
 The **original samples** contains in the Samples folder come from
 this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
+## Download
+
+- go to release and download the SAXABOOM-x86-1.0.0-vst3.exe file
+
 ## Manual
 
 - **Play the sounds from midi input in a range of C-3 to G-3.**
