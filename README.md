@@ -13,7 +13,7 @@ this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
 ## Download
 
-- go to release and download the SAXABOOM-x86-1.0.0-vst3.exe file
+- [here](/release)
 
 ## Manual
 
