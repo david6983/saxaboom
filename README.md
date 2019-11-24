@@ -4,11 +4,11 @@
 
 **SAXABOOM** is my **first vst plugin**. 
 
-The idea come from a video from "**The Tonight Show Starring Jimmy Fallon**" named "**Jack Black Performs His Legendary Sax-A-Boom with The Roots**" (https://www.youtube.com/watch?v=cLmCJKT5ssw).
+The idea comes from a video from "**The Tonight Show Starring Jimmy Fallon**" named "**Jack Black Performs His Legendary Sax-A-Boom with The Roots**" (https://www.youtube.com/watch?v=cLmCJKT5ssw).
 
-This software emulate the famous toy from **Kawasaki, Sax-a-boom**.
+This software emulates the famous toy from **Kawasaki, Sax-a-boom**.
 
-The **original samples** contains in the Samples folder come from
+The **original samples** contained in the Samples folder come from
 this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
 ## Download
@@ -21,7 +21,7 @@ this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 - **Click on one of the 7 buttons on the right to play a sound.**
     - Note : The first button on top corresponds to C-3 midi note and the last one (bottom-right) corresponds to G-3 on midi keyboard.
 - **The main loop button play the main melody part of the Sax-a-boom.**
-    - Note : This button is seprated from the other because the sound is not a saxaphone sound !
+    - Note : This button is separated from the others because the sound is not a saxaphone sound !
 - **The volume of the sound played from the graphical interface can be set by the rotary slider from 0 to 127.**
     - Note : The range used for the volume corresponds to the velocity of a midi note.
 - **One click on the author name redirect you to the author's github page.**
@@ -30,7 +30,7 @@ this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
 - Launch [SAXABOOM-x86-1.0.0-vst3.exe](https://github.com/david6983/saxaboom/releases)
 
-note : **The setup installer will create a folder called Saxaboom in your documents path. Please do not delete this folder fi you launch the vst plugin !**
+note : **The setup installer will create a folder called Saxaboom in your documents path. Please do not delete this folder if you launch the vst plugin !**
 
 ## Build from sources (Windows only)
 
@@ -56,4 +56,4 @@ prerequisite :
 
 ### Note for vst2 support
 
-Because steinberg technologies recommend to build vst3 instead of vst2, the **vst2 version of this software is not provided in the setup installer**. However if you persist to use vst2 on your DAW, build this vst from source in the Projucer and add vst2 support.
+Because steinberg technologies recommends to build vst3 instead of vst2, the **vst2 version of this software is not provided in the setup installer**. However if you persist to use vst2 on your DAW, build this vst from source in the Projucer and add vst2 support.
