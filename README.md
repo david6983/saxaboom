@@ -28,7 +28,7 @@ this youtube video : https://www.youtube.com/watch?v=9MCN_7jpYig
 
 ## Install for windows (setup)
 
-- Launch [Output/SAXABOOM-x86-1.0.0-vst3.exe](https://github.com/david6983/saxaboom/releases)
+- Launch [SAXABOOM-x86-1.0.0-vst3.exe](https://github.com/david6983/saxaboom/releases)
 
 note : **The setup installer will create a folder called Saxaboom in your documents path. Please do not delete this folder fi you launch the vst plugin !**
 
