@@ -48,7 +48,7 @@ prerequisite :
 
 ### Mac OS support
 
-**Comming soon ... (September 2020)**
+**Comming soon ... **
 
 ### Linux support
 
